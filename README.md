@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @thecoder9709
+- 👋 Hi, I’m @prince9
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning Web Devlopment
 - 💞️ I’m looking to collaborate on My Own Company
